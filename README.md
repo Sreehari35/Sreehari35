@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Sreehari35
-- 👀 I’m interested in python programming and c+ language
-- 🌱 I’m currently learning grade 12
+- 👋 Hi, I’m Sreehari an undergrad in Computer Science Engineering.
+- 👀 I’m interested in python, C and Java programming  language
